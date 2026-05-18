@@ -2,7 +2,7 @@
 
 ## Proyecto Integrador — Avance 2: Ingeniería de características
 
-Repositorio correspondiente al segundo avance del proyecto integrador del Equipo 10, enfocado en la preparación de datos e ingeniería de características para la inferencia de propiedades físicas de galaxias mediante técnicas de aprendizaje automático.
+Repositorio correspondiente al segundo avance del proyecto integrador del Equipo 61, enfocado en la preparación de datos e ingeniería de características para la inferencia de propiedades físicas de galaxias mediante técnicas de aprendizaje automático.
 
 ---
 
